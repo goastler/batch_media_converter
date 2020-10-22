@@ -1,4 +1,4 @@
-# batch_media_conveter
+# batch_media_conveterr
 
 A simple bash script to convert videos on demand. The motivation is to automagically convert films / tv into a reasonable format for playback on tv / chromecast / phone through plex or jellyfin (jellyfin is the best btw!).
 
